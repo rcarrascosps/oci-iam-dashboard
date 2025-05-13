@@ -1,5 +1,5 @@
 # Copyright (c) 2021 Oracle and/or its affiliates.
-# Licensed under the Universal Permissive License v 1.0 as shown at https://oss.oracle.com/licenses/upl.
+# Licensed under the Universal Permissive License v 1.0 as shown at https://oss.oracle.com/licenses/upl .
 
 title: "OCI IAM Identity Domain Dashboards Deployment"
 stackDescription: "A stack to deploy Logging Analytics Dashboards for OCI IAM Identity Domains."
